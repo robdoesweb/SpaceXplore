@@ -1,32 +1,29 @@
-# Project Title: title here (10 words maximum)
+# Project Title: SpaceXplore (10 words maximum)
 
 ### Statement
-Describe your project. Why is it interesting? Why is it interesting to you personally? What do you hope to learn? 
+We're designing a 2D game that uses graphics and sound to make it fun and interesting. The user will be able to control a spaceship and the purpose of the game is to avoid the obstacles that are ahead. 
 
 ### Analysis
+To allow the user to move the spacecraft anywhere on the screen we will use cons, car and cdr. Use FoldL for handling situations when the health of the spacecraft is low or when the the spacecraft hits an object. Use recusion to create multiple obstacles. We will use inheritance and map .....................
+
 Explain what approaches from class you will bring to bear on the project. Be explicit: e.g., will you use recursion? How? Will you use map/filter/reduce? How? Will you use data abstraction? Will you use object-orientation? Will you use functional approaches to processing your data? Will you use state-modification approaches? A combination?
 
 The idea here is to identify what ideas from the class you will use in carrying out your project. 
 
 ### Data set or other source materials
-If you will be working with existing data, where will you get those data from? (Dowload it from a website? access it in a database? create it in a simulation you will build....)
+We will be building our own simulation and creating our own data. We will however be using 2D sprits from randowm websites for our game.
 
-How will you convert that data into a form usable for your project?  
-
-Do your homework here: if you are pulling data from somewhere, actually go download it and look at it. Explain in some detail what your plan is for accomplishing the necessary processing.
-
-If you are using some other starting materails, explain what they are. Basically: anything you plan to use that isn't code.
 
 ### Deliverable and Demonstration
-Explain exactly what you'll have at the end. What will it be able to do at the live demo?
+In the end we will have a fully funtional interactive game that will allow the user to contol the spacecraft and move around obstacles. The obstacles will be random so the user will not know where to move the spacecraft. 
 
-What exactly will you produce at the end of the project? A piece of software, yes, but what will it do? Here are some questions to think about (and answer depending on your application).
-
-Will it run on some data, like batch mode? Will you present some analytical results of the processing? How can it be re-run on different source data?
 
 Will it be interactive? Can you show it working? This project involves a live demo, so interactivity is good.
 
 ### Evaluation of Results
+We should be able to run the game without any errors till the end.
+
+
 How will you know if you are successful? 
 If you include some kind of _quantitative analysis,_ that would be good.
 
@@ -47,13 +44,13 @@ You will be expected to turn in code, documentation, and data (as appropriate) a
 Write concrete steps for your schedule to move from concept to working system. 
 
 ### First Milestone (Fri Apr 15)
-What exactly will be turned in on this day? 
+A 2D world with the spacecraft being able to more around in it. 
 
 ### Second Milestone (Fri Apr 22)
-What exactly will be turned in on this day? 
+Add features like health, sound, obstacles 
 
 ### Final Presentation (last week of semester)
-What additionally will be done in the last chunk of time?
+Add more interactive things. Start page/intro.
 
 ## Group Responsibilities
 Here each group member gets a section where they, as an individual, detail what they are responsible for in this project. Each group member writes their own Responsibility section. Include the milestones and final deliverable.
@@ -66,11 +63,15 @@ Here each group member gets a section where they, as an individual, detail what 
 
 In the headings below, replace the silly names and GitHub handles with your actual ones.
 
-### Susan Scheme @susanscheme
-will write the....
+### Lokesh Manchi @lokeshmanchi
+I will write the code that allows the user to move the spacecraft freely to avoid the obsticles and write code for sound.
+For the first milestone I will create the code for allowing the user to move the spacecraft.
+For the second milestone I will write code for the sound to make the game more immersive and create the health bar
+For the final milestone I will help create the start page and any other small details to make the game for lively.
 
-### Leonard Lambda @lennylambda
-will work on...
+
+### Rob Russell @robdoesweb
+I will work on creating the 2D world for the game, this includes obsticles 
 
 ### Frank Functions @frankiefunk 
 Frank is team lead. Additionally, Frank will work on...   
