@@ -73,5 +73,4 @@ For the final milestone I will help create the start page and any other small de
 ### Rob Russell @robdoesweb
 I will work on creating the 2D world for the game, this includes obsticles 
 
-### Frank Functions @frankiefunk 
-Frank is team lead. Additionally, Frank will work on...   
+
