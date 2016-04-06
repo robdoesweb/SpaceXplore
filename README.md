@@ -1,4 +1,4 @@
-# Project Title: SpaceXplore (10 words maximum)
+# Project Title: SpaceXplore
 
 ### Statement
 We're designing a 2D game that uses graphics and sound to make it fun and interesting. The user will be able to control a spaceship and the purpose of the game is to avoid the obstacles that are ahead. 
